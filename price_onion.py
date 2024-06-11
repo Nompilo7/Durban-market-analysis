@@ -10,7 +10,7 @@ with open(model_save_path, 'rb') as file:
     loaded_model = pickle.load(file)
     
 # Background image URL or local path
-background_image_url = "onions.jpg"
+background_image_url = "Onionbrown1.webp"
 
 # Custom CSS
 background_css = f"""
