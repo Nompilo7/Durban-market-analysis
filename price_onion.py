@@ -8,6 +8,8 @@ from sklearn.preprocessing import LabelEncoder
 model_save_path = "price_predict_model.pkl"
 with open(model_save_path, 'rb') as file:
     loaded_model = pickle.load(file)
+
+st.image("Onionbrown1.webp"
     
 # Background image URL or local path
 background_image_url = "Onionbrown1.webp"
