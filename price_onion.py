@@ -9,10 +9,10 @@ model_save_path = "price_predict_model.pkl"
 with open(model_save_path, 'rb') as file:
     loaded_model = pickle.load(file)
 
-st.image("Onionbrown1.webp")
+st.image("BROWNONION.webp")
     
 # Background image URL or local path
-background_image_url = "Onionbrown1.webp"
+background_image_url = "BROWNONION.webp"
 
 # Custom CSS
 background_css = f"""
