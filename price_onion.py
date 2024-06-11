@@ -12,7 +12,7 @@ with open(model_save_path, 'rb') as file:
 st.image("Onionbrown1.webp"
     
 # Background image URL or local path
-background_image_url = "Onionbrown1.webp"
+background_image_url = "Onionbrown1.webp")
 
 # Custom CSS
 background_css = f"""
